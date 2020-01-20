@@ -18,7 +18,7 @@ def monopoly_with_third_tier
         pennsylvania_railroad: 25,
         reading_railroad: 25
       },
-      :names => []
+      :names => {}
     }
   }
 end
